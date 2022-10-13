@@ -1,4 +1,4 @@
-# QR-code-Gen
+# QR-code-generator
 
 
 
